@@ -18,6 +18,15 @@ apt upgrade
 git clone https://github.com/xmrig/xmrig.git 
 cd xmrig
 ```
+```
+or cloning MoneroOcean XMRig repo.
+
+```
+apt update 
+apt upgrade  
+git clone https://github.com/MoneroOcean/xmrig.git
+cd xmrig
+```
 It should look something like this now.
 
 ![image](https://user-images.githubusercontent.com/84473858/124390827-94fe8480-dced-11eb-9f5e-1d53497e8aa4.png)
