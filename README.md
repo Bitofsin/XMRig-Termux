@@ -18,7 +18,7 @@ apt upgrade
 git clone https://github.com/xmrig/xmrig.git 
 cd xmrig
 ```
-```
+
 or cloning MoneroOcean XMRig repo.
 
 ```
